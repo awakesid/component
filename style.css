@@ -113,6 +113,7 @@ button:hover{
         flex-direction: column;
         width: 80%;
         height: 45rem;
+        border-radius: 10px 10px 10px 10px;
     }
     .photo{
         height: 45%;
